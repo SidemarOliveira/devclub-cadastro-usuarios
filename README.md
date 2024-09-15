@@ -4,7 +4,7 @@
 <br>
 
 <br>
-<h2> 📌Proposito do Cadastro</h2>
+<h2> 📌Propósito do Cadastro</h2>
 <p>&bull; <b>Identificação</b>: Permite que a plataforma reconheça quem você é.</p>
 <p>&bull; <b>Segurança</b>: Protege suas informações e garante que apenas você tenha acesso à sua conta.</p>
 <h2>📌Informações Solicitadas</h2>
@@ -12,7 +12,7 @@
 <p>&bull; <b>Contato</b>: E-mail, número de telefone.</p>
 <p>&bull; <b>Credenciais:</b> Nome de usuário e senha.</p>
 <br>
-<p>O cadastro de usuários é um processo fundamental para muitas plataformas e serviços, pois permite a identificação e personalização da experiência do usuário. Aqui estão alguns pontos importantes sobre o cadastro de usuários:</p>
+<p>O cadastro de usuários é um processo fundamental para muitas plataformas e serviços, pois permite a identificação e personalização da experiência do usuário.</p>
 <br>
 <h2>💻Tecnologias Utilizadas:</h2>
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
