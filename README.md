@@ -20,3 +20,5 @@
 <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
 <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
 <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
+<h3>Confira o porjeto:</h3>
+<img src=https://github.com/SidemarOliveira/devclub-cadastro-usuarios/blob/main/src/assets/Design%20image-cadastro.jpg?raw=true>
